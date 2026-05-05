@@ -1,0 +1,4 @@
+git push <remote> <branch>
+
+remote = origin (default name) = remote repository url
+branch = branch name we are going to push
