@@ -5,3 +5,5 @@ crash.log
 .terraform.lock.hcl
 *.pem
 .DS_Store
+floci-key.pem
+*.pem
