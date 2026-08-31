@@ -1,3 +1,4 @@
 Name = input('enter your name:')
 
-print('hello',name)
+print('hello', Name)
+print ("test")
