@@ -1,5 +1,3 @@
-a = 5
-b = 6
-
-c = a+b
-print(c)
+def add_numbers(a,b):
+    """to add 2 numbers"""
+    return a + b
